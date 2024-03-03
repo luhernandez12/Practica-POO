@@ -19,7 +19,7 @@ tipos (datetime o None) dependiendo de la situacion. Esto permite manejar de man
 class Medicamento:
     def __init__(self):
         self.__nombre = "" 
-        self.__dosis = 0 
+        self.__dosis =0
     
     def verNombre(self):
         return self.__nombre 

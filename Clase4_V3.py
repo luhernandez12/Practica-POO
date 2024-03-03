@@ -5,7 +5,7 @@ class Paciente:
         self.__nombre = '' 
         self.__cedula = 0 
         self.__genero = '' 
-        self.__servicio = '' 
+        self.__servicio = ''
      
     """se evidencia claramente el uso de setters y getter, tieniendo en claro que el encapsulamiento de la clase es de caracter privado,  
     cse crea estos metodos con el fin de usar otros atrubutos a en algunas clases ahorrando codigo y usando uno de los pilares de la
